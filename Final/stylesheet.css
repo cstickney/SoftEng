@@ -1,0 +1,21 @@
+﻿* {
+	font-family: Calibri;
+	color: #CC00FF;
+	background-color: black;
+	font-size: 20px;
+	/*border: 1px dashed #CC00FF;*/
+}
+table {
+	border: 3px solid #CC00FF;
+}
+tr {
+	padding: 3px;
+	/*border: 2px solid #CC00FF;*/
+}
+td {
+	padding: 2px;
+	/*border: 2px solid #CC00FF;*/
+}
+div {
+	height: 50px;
+}
